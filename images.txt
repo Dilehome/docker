@@ -1,3 +1,5 @@
 jeessy/ddns-go
 ghcr.io/seriousm4x/upsnap:4
 ghcr.io/halo-dev/halo
+mysql:8.1.0
+jc21/nginx-proxy-manager:latest
