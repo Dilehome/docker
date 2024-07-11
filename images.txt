@@ -1,4 +1,4 @@
-jeessy/ddns-go/linux/arm64
+--platform=linux/arm64 jeessy/ddns-go
 ghcr.io/seriousm4x/upsnap:4
 ghcr.io/halo-dev/halo
 mysql:8.1.0
