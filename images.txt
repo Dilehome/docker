@@ -1,6 +1,6 @@
 --platform=linux/arm64 jeessy/ddns-go
-ghcr.io/seriousm4x/upsnap:4
-ghcr.io/halo-dev/halo
-mysql:8.1.0
-jc21/nginx-proxy-manager:latest
-portainer/portainer-ce:2.20.3
+--platform=linux/arm64 ghcr.io/seriousm4x/upsnap:4
+--platform=linux/arm64 ghcr.io/halo-dev/halo
+--platform=linux/arm64 mysql:8.1.0
+--platform=linux/arm64 jc21/nginx-proxy-manager:latest
+--platform=linux/arm64 portainer/portainer-ce:2.20.3
