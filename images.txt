@@ -1,4 +1,4 @@
-github.com/ophub/releases/amlogic-s9xxx-armbian/releases/Armbian_24.11.0_amlogic_s905l3a_bookworm_6.1.114_server_2024.11.01.img.gz
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/408083942/b6846cbc-7a11-4c89-940b-a556ddb975cb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241119T123753Z&X-Amz-Expires=300&X-Amz-Signature=0d1639071a3c652718c8899a33ce25092f3dc8905c8fed00d9e1b119363e5b1f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DArmbian_24.11.0_amlogic_s905l3a_bookworm_6.1.114_server_2024.11.01.img.gz&response-content-type=application%2Foctet-stream
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 ghcr.io/seriousm4x/upsnap:4.3.4
 --platform=linux/arm64 halohub/halo:2.20.0
