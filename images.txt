@@ -1,3 +1,4 @@
+github.com/ophub/amlogic-s905l3a-armbian/releases/tag/d76214e63474228be1c5b17e26a1f6bba55da551e1124413ae77ebae2c71126d
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 ghcr.io/seriousm4x/upsnap:4.3.4
 --platform=linux/arm64 halohub/halo:2.20.0
@@ -6,4 +7,3 @@
 --platform=linux/arm64 portainer/portainer-ce:2.21.4
 --platform=linux/arm64 jellyfin/jellyfin:10.10.2
 --platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
-d76214e63474228be1c5b17e26a1f6bba55da551e1124413ae77ebae2c71126d
