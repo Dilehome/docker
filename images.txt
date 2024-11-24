@@ -3,6 +3,6 @@
 --platform=linux/arm64 halohub/halo:2.20.0
 --platform=linux/arm64 mysql:8.1.0
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
---platform=linux/arm64 portainer/portainer-ce:2.21.4
+--platform=linux/arm64 portainer/portainer-ce:2.24.0
 --platform=linux/arm64 jellyfin/jellyfin:10.10.2
 --platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
